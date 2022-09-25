@@ -1,12 +1,12 @@
-title: Jekyll Serial Programmer
+title: 문성호 블로그
 markdown: kramdown
 url: "blog.sungho.xyz"
 baseurl: "/jekyll-theme-serial-programmer"
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: 문성호 블로그
+  email: sungho.moon@aol.com
 
 plugins:
   - jemoji
